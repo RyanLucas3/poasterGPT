@@ -6,6 +6,7 @@ Introducing **poasterGPT**, a GPT-3.5 turbo model fine-tuned on the tweets of so
 
 ![poasterGPTsmall](https://github.com/RyanLucas3/poasterGPT/assets/55145311/54364744-e2a4-4997-bd4a-6ac1e50baf90)
 
+
 # Fine-tuning format
 
 To let GPT know that you want to schizopoast, prompts should be in the form "Tweet about [X]" with responses given in a similar way, e.g. see the below.
