@@ -5,7 +5,7 @@ We would all love if GPT could generate 🔥 takes, but let's face it 99% of the
 Introducing **poasterGPT**, a GPT-3.5 turbo model fine-tuned on the tweets of some of the best Twitter schizopoasters: @tszzl @10x_er @pajeet_bateman @growing_daniel. The tweets we're handpicked by yours truly and each and every one are subjectively verified bangers. 
 
 <p align="center">
-  <img src="http://some_place.com/image.png](https://github.com/RyanLucas3/poasterGPT/assets/55145311/54364744-e2a4-4997-bd4a-6ac1e50baf90)" />
+  <img src="https://github.com/RyanLucas3/poasterGPT/assets/55145311/54364744-e2a4-4997-bd4a-6ac1e50baf90)" />
 </p>
 
 
