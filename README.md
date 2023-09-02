@@ -11,6 +11,7 @@ Introducing **poasterGPT**, a GPT-3.5 turbo model fine-tuned on the tweets of so
 
 
 
+
 # Fine-tuning format
 
 To let GPT know that you want to schizopoast, prompts should be in the form "Tweet about [X]" with responses given in a similar way, e.g. see the below.
