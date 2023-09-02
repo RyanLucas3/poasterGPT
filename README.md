@@ -1,4 +1,5 @@
 # poasterGPT
+![poasterGPT](https://github.com/RyanLucas3/poasterGPT/assets/55145311/a3d62197-f86b-4d9d-9bd9-fc2ecfd8dfc3)
 
 We would all love if GPT could generate 🔥 takes, but let's face it 99% of the time it generates complete mundanity; some politically correct clustroid-center of human thought.
 
@@ -10,5 +11,3 @@ To let GPT know that you want to schizopoast, prompts should be in the form "Twe
 ````
 "Prompt: Tweet about [X], "Response: [X] is red-pill coded. Completely based beyond comprehension."
 ````
-
-![PoasterGPT](https://github.com/RyanLucas3/poasterGPT/assets/55145311/831a7ad9-b476-4174-a710-a4115467db58)
