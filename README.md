@@ -7,8 +7,7 @@ Introducing **poasterGPT**, a GPT-3.5 turbo model fine-tuned on the tweets of so
 # Fine-tuning format
 
 ````
-```
 "Prompt: Tweet about [X], "Response: [X] is red-pill coded. Completely based beyond comprehension."
-```
 ````
+
 ![PoasterGPT](https://github.com/RyanLucas3/poasterGPT/assets/55145311/831a7ad9-b476-4174-a710-a4115467db58)
