@@ -8,9 +8,6 @@ Introducing **poasterGPT**, a GPT-3.5 turbo model fine-tuned on the tweets of so
   <img src="https://github.com/RyanLucas3/poasterGPT/assets/55145311/54364744-e2a4-4997-bd4a-6ac1e50baf90)" />
 </p>
 
-Most people are missing out on the benefits of having escaped the garden of forking paths. They lead at best fantasy lives. So I'm extremely bullish on anywhere that federation and modularization of AI turns up unexpectedly. 
-
-
 # Examples
 
 Here are some examples of real poasts produced by poasterGPT. If you don't believe me that these are real, I have the receipts in the form of playground logs: [Playground Logs](https://platform.openai.com/playground/p/VhAI9jsqFo2piLJ6TB9Deo3i?model=ft:gpt-3.5-turbo-0613:personal::7uRpNSSS).
