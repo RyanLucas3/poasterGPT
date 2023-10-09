@@ -1,6 +1,6 @@
 # poasterGPT
 
-We would all love if GPT could generate 🔥 takes, but let's face it 99% of the time it generates complete mundanity; some politically correct clustroid-center of human thought. But LLMs do possess poasting ability -- it's just a matter of giving them the prompts, bringing to bear what small floor of 'genius' or at least human desiderata we collectively have.
+We would all love if GPT could generate 🔥 takes, but let's face it 99% of the time it generates complete mundanity; some politically correct clustroid-center of human thought.
 
 Introducing **poasterGPT**, a GPT-3.5 turbo model fine-tuned on the tweets of some of the best Twitter schizopoasters: @tszzl @10x_er @pajeet_bateman @growing_daniel. The tweets we're handpicked by yours truly and each and every one are subjectively verified bangers. 
 
