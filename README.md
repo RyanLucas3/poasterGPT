@@ -16,6 +16,8 @@ https://poastergpt.streamlit.app/
 
 Please consider donating so that I can keep it running.
 
+https://www.buymeacoffee.com/poasterGPT
+
 # Examples
 
 Here are some examples of real poasts produced by poasterGPT. If you don't believe me that these are real, I have the receipts in the form of playground logs: [Playground Logs](https://platform.openai.com/playground/p/VhAI9jsqFo2piLJ6TB9Deo3i?model=ft:gpt-3.5-turbo-0613:personal::7uRpNSSS).
