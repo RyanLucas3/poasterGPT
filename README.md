@@ -20,7 +20,7 @@ https://www.buymeacoffee.com/poasterGPT
 
 # Examples
 
-Here are some examples of real poasts produced by poasterGPT. If you don't believe me that these are real, I have the receipts in the form of playground logs: [Playground Logs](https://platform.openai.com/playground/p/VhAI9jsqFo2piLJ6TB9Deo3i?model=ft:gpt-3.5-turbo-0613:personal::7uRpNSSS).
+Here are some examples of real poasts produced by poasterGPT. [Playground Logs](https://platform.openai.com/playground/p/VhAI9jsqFo2piLJ6TB9Deo3i?model=ft:gpt-3.5-turbo-0613:personal::7uRpNSSS).
 
 ![Examples](https://github.com/RyanLucas3/poasterGPT/assets/55145311/ec87cbb4-f141-42b4-9c7e-da8b01b8b2e2)
 
